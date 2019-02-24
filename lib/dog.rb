@@ -8,7 +8,7 @@ class Dog
   end
 
   def self.all
-    puts "#{@name\n}"
+    puts "#{@name}\n"
   end
 
   def self.clear_all
