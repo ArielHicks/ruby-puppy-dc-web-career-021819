@@ -9,6 +9,7 @@ class Dog
 
   def self.all
     puts "#{@name}"
+  end
 
   def self.clear_all
     @@all.clear
